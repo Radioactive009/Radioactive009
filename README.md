@@ -1,10 +1,10 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hey+There+%F0%9F%91%8B+I'm+Kislay+Kumar;AI+Developer+%7C+LLM+Engineer;Building+Scalable+AI+Systems;RAG+%7C+LangChain+%7C+Vector+Databases;Problem+Solver+%7C+DSA+Enthusiast" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F7FF,100:0D1117&height=220&section=header&text=Kislay%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20|%20LLM%20Engineer%20|%20Building%20Scalable%20AI%20Systems&descAlignY=58&descSize=18" width="100%" />
 
 <br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+Developer+%7C+LLM+Engineer;RAG+%7C+LangChain+%7C+LangGraph;Vector+Databases+%7C+NLP;Problem+Solver+%7C+DSA+Enthusiast" alt="Typing SVG" />
 
 </div>
 
@@ -41,7 +41,7 @@ Currently Exploring:
 
 <div align="center">
 
-### 🚀 Passionate about building intelligent systems with modern AI technologies
+### 🚀 Passionate about building intelligent AI systems with modern AI technologies
 
 </div>
 
@@ -120,9 +120,9 @@ Currently Exploring:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Radioactive009&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Radioactive009&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radioactive009&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radioactive009&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
 
 </div>
 
@@ -142,7 +142,7 @@ Currently Exploring:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Radioactive009&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=Radioactive009&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
 </div>
 
@@ -152,7 +152,7 @@ Currently Exploring:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Radioactive009&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Radioactive009&custom_title=Kislay's%20Contribution%20Graph&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -210,3 +210,5 @@ Currently Exploring:
 ## ⚡ Building scalable AI systems that solve real-world problems
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F7FF,100:0D1117&height=120&section=footer"/>
