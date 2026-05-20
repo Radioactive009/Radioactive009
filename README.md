@@ -10,38 +10,43 @@
 
 ---
 
-# 💫 About Me
+# 🌌 About Me
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
 
 ```yaml
 Name: Kislay Kumar
 Role: AI Developer | LLM Engineer
 Education: 4th Year B.Tech Student
 
-Specialization:
+Core Expertise:
   - Large Language Models (LLMs)
-  - Retrieval-Augmented Generation (RAG)
+  - Retrieval-Augmented Generation
   - LangChain & LangGraph
   - Vector Databases
-  - Natural Language Processing
-  - Neural Networks
-  - AI Agent Development
+  - AI Agents & Automation
+  - NLP & Neural Networks
 
-Focus:
+Focus Areas:
   - Scalable AI Systems
-  - Problem Solving
-  - Clean Software Architecture
   - Full Stack AI Applications
-
-Currently Exploring:
-  - AI Infrastructure
-  - Multi-Agent Systems
-  - Advanced RAG Pipelines
-  - Generative AI Systems
+  - Clean Software Architecture
+  - Problem Solving & DSA
 ```
 
-<div align="center">
+</td>
 
-### 🚀 Passionate about building intelligent AI systems with modern AI technologies
+<td width="50%">
+
+<img src="https://github.com/SP-XD/SP-XD/raw/main/images/dev-working_rounded.gif" width="100%" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
