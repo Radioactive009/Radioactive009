@@ -64,10 +64,6 @@ Focus Areas:
 <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/Radioactive69/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
 <a href="https://codeforces.com/" target="_blank">
 <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
@@ -163,15 +159,6 @@ Focus Areas:
 
 ---
 
-# 🧠 LeetCode Stats
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/Radioactive69?theme=dark&font=JetBrains%20Mono&ext=contest" />
-
-</div>
-
----
 
 # 🚀 Expertise
 
